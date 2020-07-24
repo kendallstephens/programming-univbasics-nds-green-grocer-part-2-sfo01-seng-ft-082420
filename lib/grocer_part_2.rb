@@ -39,5 +39,5 @@ cart
 end
 
 def checkout(cart, coupons)
-counter = 0
+consolidate_cart 
 end
